@@ -15,7 +15,7 @@ Machine learning model addresses:
 3. Architecture: Explain Artificial Neural Network (ANN)
 4. Activation function: Why selected      
 5. Loss function: Why and what.
-6. Epochs: Number used
+6. Epochs and Batch Size: Number used
 7. Neural Network design: Explain strategy
 8. Reflection: Learnings acquired
 
