@@ -21,9 +21,14 @@ Machine learning model addresses:
 
 ## USAGE
 
+* Code should not be run all the way through.  
+* Each model section is independent so it can be tested separately.  
+* To be safe delete runtime before running model. 
+* Alternatively can load model from model directory. 
+
 ## Dataset
 
-Uses inbuilt Keras dataset.
+Uses inbuilt Keras CIFAR-10 dataset.
 
 ### Code
 
