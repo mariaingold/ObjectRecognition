@@ -21,10 +21,13 @@ Machine learning model addresses:
 
 ## USAGE
 
-* Code should not be run all the way through.  
+### USING
+* Load pre-created model file into Google Colab: models\model_5_best.keras
+
+### RUNNING CODE FOR EACH MODEL
 * Each model section is independent so it can be tested separately.  
-* To be safe delete runtime before running model. 
-* Alternatively can load model from model directory. 
+* Delete runtime before running each model. 
+* Alternatively can load model from model directory, as above. 
 
 ## Dataset
 
