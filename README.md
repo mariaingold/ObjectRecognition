@@ -23,6 +23,9 @@ Machine learning model addresses:
 
 ### USING
 * Load pre-created model file into Google Colab: models\model_5_best.keras
+* Run code from IMPORT LIBRARIES down to MODELS
+* Skip MODELS section unless want to rerun.
+* Run code in TEST section.
 
 ### RUNNING CODE FOR EACH MODEL
 * Each model section is independent so it can be tested separately.  
